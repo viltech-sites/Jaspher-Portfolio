@@ -180,7 +180,7 @@ a.view-btn:hover{
 
 .sec2{
   
-    background-image: url(/images/bg3.svg);
+    background-image: url(images/bg3.svg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
@@ -488,7 +488,7 @@ img.img3{
         display:none;
     }
     .wrapper{
-        background-image: url(/images/bg.svg);
+        background-image: url(images/bg.svg);
         background-size:cover;
         background-repeat: no-repeat;
         height: 105vh;
