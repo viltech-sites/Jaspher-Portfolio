@@ -69,7 +69,7 @@
     background-image: url(images/bg.svg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 800px;
     
 }   
 /* Banner */
@@ -183,7 +183,7 @@ a.view-btn:hover{
     background-image: url(images/bg3.svg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     align-items: center;
