@@ -436,7 +436,7 @@ img.img3{
     @media only screen and (max-width: 1920px) and (min-width: 1365px)  {
     .wrapper {
   
-        height: 700px;
+        height: 100vh;
     }
 
     .sec2{
